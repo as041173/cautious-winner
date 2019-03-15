@@ -3,3 +3,5 @@ Here are the instructions:
 This is sample step workflow to follow.
 
 Plesae refer to the website for more instructions.
+
+Changes made in sample branch
