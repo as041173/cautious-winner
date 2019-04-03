@@ -7,3 +7,4 @@ In this course, you will learn how to use GitHub successfully
 - Repository
 - Branching
 - Features
+- Sample file
